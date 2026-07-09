@@ -13,11 +13,11 @@ Instead, email **security@akj.io** with:
 - The affected project and version
 - Any potential impact
 
-We will acknowledge receipt within 48 hours and aim to provide a fix or mitigation within 7 days for critical issues.
+I will acknowledge receipt within 48 hours and aim to provide a fix or mitigation within 7 days for critical issues.
 
 ## Supported Versions
 
-Only the latest release of each project receives security updates. We recommend staying up to date.
+Only the latest release of each project receives security updates. I recommend staying up to date.
 
 ## Scope
 
